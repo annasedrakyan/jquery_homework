@@ -1,0 +1,24 @@
+
+
+
+body {
+	background: pink;
+}
+
+.wrapper {
+	width: 500px;
+	height: 300px;
+	text-align: center;
+
+}
+
+.title {
+	margin-top: 10px;
+	height:50px;
+	background-color: grey;
+
+}
+
+h1:hover {
+	background-color: #cccccc;
+}
